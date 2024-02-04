@@ -1,1 +1,1 @@
-https://github.com/nikita-cher/ono-tebe-nado
+https://github.com/nikita-cher/ono-tebe-nado.git
